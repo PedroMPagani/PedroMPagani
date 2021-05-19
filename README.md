@@ -5,4 +5,3 @@
 
 A little bit about my experience:
 <embed src="https://github.com/PedroMPagani/stats/blob/master/generated/resume.pdf" type="application/pdf" />
-<a href="https://github.com/PedroMPagani/stats/blob/master/generated/resume.pdf" target="_blank">PDF.</a>
