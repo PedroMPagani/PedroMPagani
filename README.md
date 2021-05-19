@@ -5,4 +5,4 @@
 
 A little bit about my experience:
 
-![img]a(https://github.com/PedroMPagani/stats/blob/master/generated/resume.pdf)
+<a href="https://github.com/PedroMPagani/stats/blob/master/generated/resume.pdf" target="_blank">PDF.</a>
