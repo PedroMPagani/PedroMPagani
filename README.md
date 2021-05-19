@@ -5,4 +5,4 @@
 
 A little bit about my experience:
 
-![github](https://github.com/PedroMPagani/stats/blob/master/generated/resume.pdf)
+![Resume](https://github.com/PedroMPagani/stats/blob/master/generated/resume.pdf)
