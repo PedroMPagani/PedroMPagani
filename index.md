@@ -22,8 +22,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-![Image](https://github.com/PedroMPagani/PedroMPagani/blob/main/resume.pdf)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
