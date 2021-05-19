@@ -1,1 +1,4 @@
-# octocat
+
+#      Overview & Languages
+![github-small](https://github.com/PedroMPagani/stats/blob/master/generated/overview.svg)
+![github-small](https://github.com/PedroMPagani/stats/blob/master/generated/languages.svg)
