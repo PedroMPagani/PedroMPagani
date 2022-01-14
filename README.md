@@ -4,4 +4,5 @@ My name is Pedro and I'm a Software engineering Student at UnB(Universidade de B
 If you want to contact me, follow up on my discord Pedro Pagani#9675, or e-mail: pedro.paulo.pagani@gmail.com
 
 
-[img] https://github.com/PedroMPagani/stats/blob/master/generated/overview.svg[img]
+![img]
+(https://github.com/PedroMPagani/stats/blob/master/generated/overview.svg)
