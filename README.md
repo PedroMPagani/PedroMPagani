@@ -13,10 +13,9 @@ I'm a Software Engineer @ [Microsoft](https://www.microsoft.com/).
 ``` js
 const stebs = {
     personal: {
-        fullName: 'Stephany Nusch',
-        birthDate: '1995-05-20',
-        pronouns: 'she' | 'her',
-        interests: ['music', 'games', 'language learning', 'anime'],
+        fullName: 'Pedro Paulo Monte Pagani',
+        birthDate: '08/04/2002',
+        interests: ['music', 'games', 'language learning', 'machine learning'],
         motivation: [
             'Help improving diversity and inclusion',
             'Making life easier and smarter through tech',
@@ -24,13 +23,8 @@ const stebs = {
     },
     technical: {
         technologies: {
-            frontEnd: {
-                Javascript: ['Vanilla JS', 'React', 'Redux', 'Jest'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap'],
-            },
             backEnd: {
-                Javascript: ['Node.js', 'Express']
+                Java: ['Lombok','MySQL','Jedis/Lettuce','Bukkit','Streams','Multi-threading']
             },
             architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
         },
@@ -40,8 +34,6 @@ const stebs = {
   </div>
 </details>
 
-[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:stephanyn7@gmail.com)
-[![Twitter: stephdotjs](https://img.shields.io/twitter/follow/stephdotjs?style=social)](https://twitter.com/stephdotjs)
-[![Linkedin: stephanynusch](https://img.shields.io/badge/-stephanynusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanynusch/)](https://www.linkedin.com/in/stephanynusch/)
-[![GitHub: stebsnusch](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/stebsnusch)
+[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Apedro.paulo.pagani%40gmail.com)](mailto:pedro.paulo.pagani@gmail.com)
+[![GitHub: stebsnusch](https://img.shields.io/github/followers/PedroMPagani?label=follow&style=social)](https://github.com/PedroMPagani)
 </div>
