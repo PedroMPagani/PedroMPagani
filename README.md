@@ -24,9 +24,9 @@ const stebs = {
     technical: {
         technologies: {
             backEnd: {
-                Java: ['Lombok','MySQL','Jedis/Lettuce','Bukkit','Streams','Multi-threading']
+                Java: ['Lombok','MySQL','Jedis/Lettuce','Bukkit','Streams','Multi-threading','NMS']
             },
-            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
+            architecture: ['Function'],
         },
     }
 }
