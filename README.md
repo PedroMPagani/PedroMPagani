@@ -4,7 +4,7 @@
   
 <img src="https://64.media.tumblr.com/b02f03cfa6b81edc1b0191bd09e7cd6b/a82a79cbf905410e-e0/s500x750/93db2587b0ca6b154bb672db9ca84b49c085b5ac.gif" />
 
-I'm a Software Engineer @[TopStrix](https://github.com/TopStrix) [DontuSMP](https://github.com/DonutNetwork) [PandaraMC](https://github.com/PandaraMC) [EnchantedMC](https://github.com/EnchantedMCNetwork)
+I'm a Software Engineer
 
 <details>
   <summary> More about me</summary>
