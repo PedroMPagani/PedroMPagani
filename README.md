@@ -8,6 +8,5 @@ I have wrote a sharding (Goliath) and used on DonutSMP, achieved a global record
 
 Creator and maintaner of Omega, Omega is a component of Goliath, it is a multi instance queue service, that reduces overload of Minecraft servers by adding actual queues of connection that work flawless,with player limits and balancing itself with information such as MSPT too, it works as a load balancer.
 
-Creator of Poseidon, it is the be
-st chat filtering system that has multiple checking components, it re-adapts itself by adding new filters and checks, it also uses AI moderation tools as its own adapting system, with multiple algorithm checks for past blocked sentences, etc.
+Creator of Poseidon, it is the best chat filtering system that has multiple checking components, it re-adapts itself by adding new filters and checks, it also uses AI moderation tools as its own adapting system, with multiple algorithm checks for past blocked sentences, etc.
 Business? contact through pedro.paulo.pagani@gmail.com
